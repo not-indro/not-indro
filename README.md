@@ -4,17 +4,14 @@
 
 <h1 align="center"> Hey, Indranil this side... 😊 </h1>
       
-         UI/UX Designer | Front-end Dev | Data Analyst
+         Data Scientist | Analyst | Backend Dev
 
  ◉ Love to explore and learn new things.
 
  ◉ 2024 Grad - C.S.T at IIEST, Shibpur.
 
 
-        Skills:  C++ / PYTHON / Reactjs / Nextjs / Tailwind CSS / AWS
-
-- 🌱 I’m currently learning Nextjs & AWS.  
-- 💬 Ask me about Python, UI/UX Designing. 
+- 💬 Ask me about ML, Analytics 
 - 📫 How to reach me: indranilbain14@gmail.com 
 - ⚡ Fun fact: Club level Badminton Player 🙂 
 
